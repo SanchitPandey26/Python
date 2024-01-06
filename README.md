@@ -1,2 +1,2 @@
 # Python
-Contains practice questions for python.
+Contains practice questions in Python for 1st semester of College.
