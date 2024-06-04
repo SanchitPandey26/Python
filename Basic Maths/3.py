@@ -13,3 +13,9 @@ else:
         n //= 10
     rev //= -1
 print(rev)
+
+'''
+Approach --> Optimal approach in the below article
+Explanation --> https://takeuforward.org/maths/reverse-digits-of-a-number
+Video Explanation --> https://www.youtube.com/watch?v=1xNbjMdbjug&t=930s
+'''

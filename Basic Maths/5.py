@@ -13,3 +13,9 @@ if (sum == temp):
     print("Yes")
 else:
     print("No")
+
+'''
+Approach --> Optimal approach in the below article
+Explanation --> https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/
+Video Explanation --> https://www.youtube.com/watch?v=1xNbjMdbjug&t=1418s
+'''
