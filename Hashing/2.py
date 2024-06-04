@@ -16,3 +16,9 @@ for key in map:
         min_key = key
 
 print(max_key,min_key)
+
+''' 
+Approach --> Optimized approach(Using map) in the below article.
+Explanation --> https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/
+Video Explanation --> https://www.youtube.com/watch?v=KEs5UyBJ39g&t=2523s
+'''
