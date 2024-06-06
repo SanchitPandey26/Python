@@ -1,12 +1,15 @@
+# Disclaimer - Sorting is required for DSA but not for practicing programing language.
+# Therefore, it can be skipped if the purpose is to practice python language.
+
 n = int(input())
 arr = list(map(int, input().split()))
-for i in range(n-1):
+for i in range(n - 1):
     mini = i
-    for j in range(i,n):
+    for j in range(i, n):
         if arr[mini] > arr[j]:
             mini = j
     temp = arr[mini]
-    arr[mini] =arr[i]
+    arr[mini] = arr[i]
     arr[i] = temp
 
 for i in arr:
